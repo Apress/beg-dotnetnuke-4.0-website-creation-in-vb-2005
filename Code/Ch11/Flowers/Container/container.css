@@ -1,0 +1,22 @@
+/* 
+================================
+ Container Styles for DotNetNuke
+================================
+*/   
+
+.containermaster_flower {
+	width: 100%;
+	background-color: #C7FFDC;
+	border-right: #00A63E 1px solid; 
+	border-top: #00A63E 1px solid; 
+	border-left: #00A63E 1px solid; 
+	border-bottom: #00A63E 1px solid; 
+}
+.containerrow1_flower {
+	background-image: url(GreenHorizGradient.jpg);
+	background-repeat: repeat-y;
+	background-color: White;
+}
+.containerrow2_flower {
+	background-color: #ffffff;
+}

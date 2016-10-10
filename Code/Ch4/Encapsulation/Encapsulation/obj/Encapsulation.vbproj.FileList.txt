@@ -1,0 +1,9 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Encapsulation.Resources.resources
+obj\Release\Encapsulation.vbproj.GenerateResource.Cache
+bin\Release\Encapsulation.exe
+bin\Release\Encapsulation.pdb
+bin\Release\Encapsulation.xml
+obj\Release\Encapsulation.exe
+obj\Release\Encapsulation.xml
+obj\Release\Encapsulation.pdb
